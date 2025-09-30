@@ -1,1 +1,1 @@
-Face Dection Project Using Open-cv and ML
+Face registeration and recognition using MTCNN and FaceNet model 
